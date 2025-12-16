@@ -6,7 +6,7 @@ const articleData = {
     date: "28 Mei 2025",
     author: {
         name: "Sammy",
-        avatar: "./../../Penulis/Sammy.jpg",
+        avatar: "./Penulis/Sammy.jpg",
         bio: "Perjalanan di Museum Tionghoa Sukabumi"
     },
     heroImage: "./images/Foto 4.jpeg",
