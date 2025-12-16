@@ -5,7 +5,7 @@ const ShareManager = (() => {
         twitter: (url, text) => `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`,
         facebook: (url) => `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`,
         linkedin: (url, text) => `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}&summary=${encodeURIComponent(text)}`,
-        whatsapp : (url, title, text) => `https://api.whatsapp.com/send?text=${encodeURIComponent('Judul Artikel: ' + title + '-' + url + text)}`
+        whatsapp : (url, title) => `https://api.whatsapp.com/send?text=${encodeURIComponent('Judul Artikel: ' + title + '-' + url)}`
     };
 
     const share = (platform) => {
