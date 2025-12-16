@@ -17,7 +17,7 @@ const articleData = {
             id: "pendahuluan",
             title: "Apa itu Museum Tionghoa Sukabumi?",
             content: `
-                <p>Museum Tionghoa adalah museum yang menyimpan barang-barang sejarah peninggalan suku china dan bekas penjajahan belanda di Sukabumi. Museum Tionghoa ini memiliki 4 lantai yan gsetiap lantainya memiliki isi dan sejarah yang berbeda. Lalu dari lantai paling atas anda bisa melihat pemandangan Sukabumi. Museum Tionghoa ini berada di Jl. Pajagalan, Komplek Ruko Danalaga Square Blok. I, No. 22, Kel. Nyomplong, Kec.Warudoyong, Kab. Sukabumi. Museum ini dibangun atas kerjasama warga Sukabumi dan Dapuran Kipahare. Museum ini dibangun mulai Agustus 2021 dan selesai di Desember 2021. Museum ini diresmikan oleh Walikota Sukabumi H. Achmad Fahmi pada 19 Februari 2022.</p>
+                <p>Museum Tionghoa adalah museum yang menyimpan barang-barang sejarah peninggalan suku china dan bekas penjajahan belanda di Sukabumi. Museum Tionghoa ini memiliki 4 lantai yang setiap lantainya memiliki isi dan sejarah yang berbeda. Lalu dari lantai paling atas anda bisa melihat pemandangan Sukabumi. Museum Tionghoa ini berada di Jl. Pajagalan, Komplek Ruko Danalaga Square Blok. I, No. 22, Kel. Nyomplong, Kec.Warudoyong, Kab. Sukabumi. Museum ini dibangun atas kerjasama warga Sukabumi dan Dapuran Kipahare. Museum ini dibangun mulai Agustus 2021 dan selesai di Desember 2021. Museum ini diresmikan oleh Walikota Sukabumi H. Achmad Fahmi pada 19 Februari 2022.</p>
             `
         },
         {
